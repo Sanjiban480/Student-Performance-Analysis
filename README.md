@@ -4,18 +4,9 @@
 ![Dashboard Preview](dashboard/screenshots/dashboard_overview.png)
 
 ## Project Overview
-This project analyzes student academic performance using Excel, SQL, and Power BI.
-
-The dashboard provides insights into:
-- Student demographics
-- Academic performance
-- Study habits
-- Attendance patterns
-- Parent education impact on grades
+This project analyzes student academic performance using Power BI. The dashboard provides insights into student demographics, study habits, attendance patterns, and academic performance.
 
 ## Tools Used
-- Excel
-- SQL
 - Power BI
 - GitHub
 
