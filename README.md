@@ -1,4 +1,7 @@
 # Student Performance Analysis Dashboard
+## Dashboard Preview
+
+![Dashboard Preview](dashboard/screenshots/dashboard_overview.png)
 
 ## Project Overview
 This project analyzes student academic performance using Excel, SQL, and Power BI.
